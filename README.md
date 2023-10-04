@@ -23,7 +23,7 @@ Windows (PowerShell):
 
 Для macOS и Linux:
    ```bash
-   .\venv\Scripts\Activate
+   source venv/bin/activate
    ```
 
 3. **Установите зависимости**: Убедитесь, что вы находитесь в активированном виртуальном окружении, и используйте pip для установки зависимостей из файла requirements.txt.
